@@ -6,7 +6,7 @@
 
 This repo contains my implementation for CS186 RookieDB projects. There is a [gitbook](https://cs186.gitbook.io/project/) for CS186 projects, but it may be updated each semester, so I cloned the 2021 spring version. You can find the projects handout that I used [here](./project-handout).
 
-The master branch contains a bare-bones database implementation, which supports
+The main branch contains a bare-bones database implementation, which supports
 executing simple transactions in series. This is the skeleton code you will use throughout the projects. In the assignments of
 this class, you will be adding support for
 B+ tree indices, efficient join algorithms, query optimization, multigranularity
